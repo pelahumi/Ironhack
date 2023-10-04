@@ -8,9 +8,52 @@ h1 {
      width: 400px;
      text-indent: 50px;
      text-align: justify;
-     color: peru;
    }
 
 span {
     color:black
-}   
+}  
+
+.blue_box {
+    background-color: blue;
+}
+
+.yellow_box {
+    background-color: yellow;
+}
+
+.red_box{
+  background-color: red;
+}
+
+body {
+  background-color: #00D1AE;
+}
+
+.menu {
+  width: 400px;
+  height: 50px;
+  background-color: #23584e;
+}
+
+.content {
+  width: 400px;
+  height: 200px;
+  background-color: red;
+}
+
+.text_blue {
+  color: blue;
+}
+
+.featured {
+  font-weight: bold;
+}
+
+* {
+  color:green;
+}
+
+#cover_box {
+  color: navy;
+}
