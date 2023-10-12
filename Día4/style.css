@@ -1,0 +1,21 @@
+@media (max-width: 800px){
+    
+
+}
+
+h1 {
+    display: flex;
+    background-color: rgb(255, 152, 152);
+    justify-content: center;
+    margin:0;
+}
+
+.container {
+    display: flex;
+}
+
+.column {
+    justify-content: center;   
+    width: 25%;
+    border: 1px solid black;
+}

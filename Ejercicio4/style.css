@@ -1,0 +1,32 @@
+div {
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    float: left;
+}
+
+#div1, #div6, #div7 {
+    border: 3px solid rgb(247, 152, 43);
+    height: 50px;
+}
+
+#div2, #div8, #div5 {
+    border: 3px solid rgb(221, 37, 37);
+    height: 150px;
+}
+
+#div3, #div4, #div9 {
+    border: 3px solid rgb(66, 214, 25);
+    height: 25px;
+}
+
+.margin-right {
+    margin-right: 15px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+
+
